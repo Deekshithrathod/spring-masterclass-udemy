@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Unnecessary Local Files ###
+*.zip
+*.pdf
+**/out/**
