@@ -13,7 +13,7 @@ Sections-Completed: 5,6,7,8,9
 At: Video-86
 
 #### Day-3
-Concepts Learnt: JDBC, JPA, SpringJDBC.
+Concepts Learnt: JDBC Vs SpringJDBC, JPA, entityManager, @Transactional, SpringDataJPA, custom RowMappers.
 
-Sections-Completed: 5,6,7,8,9
-At: Video-87
+Sections-Completed: 10
+At: Video-100
