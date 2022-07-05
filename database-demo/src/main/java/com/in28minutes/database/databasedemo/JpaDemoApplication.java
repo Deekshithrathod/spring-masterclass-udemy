@@ -11,7 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.sql.Date;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class JpaDemoApplication implements CommandLineRunner {
 	Logger logger = LoggerFactory.getLogger(this.getClass());
 
