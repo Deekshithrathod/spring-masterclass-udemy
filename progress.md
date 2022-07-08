@@ -17,3 +17,18 @@ Concepts Learnt: JDBC Vs SpringJDBC, JPA, entityManager, @Transactional, SpringD
 
 Sections-Completed: 10
 At: Video-100
+
+#### Day-4
+Took the day off.
+
+#### Day-5
+Concepts Learnt: Servlets, tomcat, HTTP Servlets, Request Response flow
+
+Sections-Completed: 10
+At: Video-106
+
+#### Day-6
+Concepts Learnt: Writing JSP, why JSPs are used in the first place, Query Params, Attributes on requests sent to JSP, JSP compilation to HTTP Servlet
+
+Sections-Completed: 10
+At: Video-110
