@@ -32,3 +32,14 @@ Concepts Learnt: Writing JSP, why JSPs are used in the first place, Query Params
 
 Sections-Completed: 10
 At: Video-110
+
+#### Day-7
+Concepts Learnt: Java inside JSP, forwarding responses to JSPs, Spring MVC, configuring Spring MVC through xml, Models, Views, Controllers, View Resolver, Front Controller
+
+Sections-Completed: 12
+At: Video-120
+
+#### Day-8
+Concepts Learnt: logging, exchanging data between view controller through models, Maven, Maven Life-cycles
+Sections-Completed: 16
+At: Video-136
